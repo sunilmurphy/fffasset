@@ -1,7 +1,22 @@
 [
-  { "lat": "40.7128", "lon": "-74.0060" },
-  { "lat": "34.0522", "lon": "-118.2437" },
-  { "lat": "41.8781", "lon": "-87.6298" },
-  { "lat": "29.7604", "lon": "-95.3698" },
-  { "lat": "25.7617", "lon": "-80.1918" }
+  {
+    "lat": "TL2DPhTbA5m3i8MLtA2pZqYtX6f3mbxBvPvUQdMtDDk=",
+    "lon": "RDETVFFH85U9/59+oXzzwXYGeOtS+Eq46z/P6RM0k64="
+  },
+  {
+    "lat": "bTuQDrsCtQqgjWrZUzYZBySk0tpQ1SHe+8I/pqbLYGo=",
+    "lon": "PPH6sfMkLpRflQWrk+KzAyjpWhHm+iU8Dxa8k0X/Y1Y="
+  },
+  {
+    "lat": "qx3gGdPqvTsnUpU8DOKDwYa58Op4+S2sKaPzIhv6drI=",
+    "lon": "Xpq7yqwEbjAJQG6mO1bF9DPXxG58Rs80RE5PSyZ2FNs="
+  },
+  {
+    "lat": "PwX0ytzK+FXX+d9ZcWt7+a5/U6uyg2iB5+pNJHo9xyk=",
+    "lon": "cN06F3gkZqZzIylf6V9Zk28m68YDfSOcl/7m4rgOqjY="
+  },
+  {
+    "lat": "LOu3htnIbIBN1NpfPXz2/L3zAs9RpbR8ZV3p+Xq5Wag=",
+    "lon": "58hBYF4sFUErGvF0ouMKxZ9M6GZPb5bMRX3UOe9rLxM="
+  }
 ]
